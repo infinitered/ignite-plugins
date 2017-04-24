@@ -1,4 +1,10 @@
 {
+  "ignite-animatable": {
+    "description": "An Ignite plugin which installs react-native-animatable.",
+    "author": "Infinite Red, Inc.",
+    "email": "npm@infinite.red",
+    "url": "https://github.com/infinitered/ignite"
+  },
   "ignite-basic-generators": {
     "description": "Ignite basic code generators.",
     "author": "Infinite Red, Inc.",
@@ -11,11 +17,43 @@
     "email": "npm@infinite.red",
     "url": "https://github.com/infinitered/ignite"
   },
+  "ignite-elements": {
+    "description": "React Native Elements support for Ignite.",
+    "author": "Nader Dabit",
+    "url": "https://github.com/dabit3/ignite-elements"
+  },
   "ignite-empty-app-template": {
     "description": "Ignite app template with nothing in it.",
     "author": "Infinite Red, Inc.",
     "email": "npm@infinite.red",
     "url": "https://github.com/infinitered/ignite"
+  },
+  "ignite-fetch-blob": {
+    "description": "An ignite plugin for react-native-fetch-blob.",
+    "author": "Steve Kellock",
+    "url": "https://github.com/skellock/ignite-fetch-blob"
+  },
+  "ignite-i18n": {
+    "description": "An Ignite plugin which installs react-native-i18n and generates language files.",
+    "author": "Infinite Red, Inc.",
+    "email": "npm@infinite.red",
+    "url": "https://github.com/infinitered/ignite"
+  },
+  "ignite-img-cache": {
+    "description": "An ignite plugin for react-native-img-cache.",
+    "author": "Steve Kellock",
+    "url": "https://github.com/skellock/ignite-img-cache"
+  },
+  "ignite-keychain": {
+    "description": "An Ignite plugin for react-native-keychain.",
+    "author": "Justin Lane",
+    "url": "https://github.com/juddey/ignite-keychain"
+  },
+  "ignite-maps": {
+    "description": "An Ignite plugin for react-native-maps.",
+    "author": "Infinite Red, Inc.",
+    "email": "npm@infinite.red",
+    "url": "https://github.com/infinitered/ignite-maps"
   },
   "ignite-minimal-app-template": {
     "description": "Ignite app template with a minimal app structure.",
@@ -23,20 +61,33 @@
     "email": "npm@infinite.red",
     "url": "https://github.com/infinitered/ignite"
   },
+  "ignite-push-notification": {
+    "description": "An Ignite plugin for react-native-push-notification.",
+    "author": "Ryan Linton",
+    "url": "https://github.com/ryanlntn/ignite-push-notification"
+  },
+  "ignite-radio-buttons": {
+    "description": "Add react-native-radio-buttons to your Ignite React Native app.",
+    "author": "Robin Heinze",
+    "url": "https://github.com/robinheinze/ignite-radio-buttons"
+  },
+  "ignite-redux-logger": {
+    "description": "An Ignite plugin for redux-logger.",
+    "author": "Gant Laborde",
+    "url": "https://github.com/GantMan/ignite-redux-logger"
+  },
+  "ignite-source-map": {
+    "description": "A CLI to parse source-map files and stack traces into usable output.",
+    "author": "Gant Laborde",
+    "url": "https://github.com/GantMan/ignite-source-map"
+  },
+  "ignite-tab-view": {
+    "description": "An Ignite plugin which generates a React Native tab view.",
+    "author": "Nader Dabit",
+    "url": "https://github.com/dabit3/ignite-tab-view"
+  },
   "ignite-unholy-app-template": {
     "description": "Ignite app template with a lot of sample code and structure.",
-    "author": "Infinite Red, Inc.",
-    "email": "npm@infinite.red",
-    "url": "https://github.com/infinitered/ignite"
-  },
-  "ignite-animatable": {
-    "description": "An Ignite plugin which installs react-native-animatable.",
-    "author": "Infinite Red, Inc.",
-    "email": "npm@infinite.red",
-    "url": "https://github.com/infinitered/ignite"
-  },
-  "ignite-i18n": {
-    "description": "An Ignite plugin which installs react-native-i18n and generates language files.",
     "author": "Infinite Red, Inc.",
     "email": "npm@infinite.red",
     "url": "https://github.com/infinitered/ignite"
@@ -47,14 +98,9 @@
     "email": "npm@infinite.red",
     "url": "https://github.com/infinitered/ignite"
   },
-  "ignite-elements": {
-    "description": "React Native Elements support for Ignite.",
-    "author": "Nader Dabit",
-    "url": "https://github.com/dabit3/ignite-elements"
-  },
-  "ignite-tab-view": {
-    "description": "An Ignite plugin which generates a React Native tab view.",
-    "author": "Nader Dabit",
-    "url": "https://github.com/dabit3/ignite-tab-view"
+  "ignite-video": {
+    "description": "An Ignite plugin for react-native-video.",
+    "author": "Ryan Linton",
+    "url": "https://github.com/ryanlntn/ignite-video"
   }
 }
