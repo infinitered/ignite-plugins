@@ -76,6 +76,11 @@
     "author": "Gant Laborde",
     "url": "https://github.com/GantMan/ignite-redux-logger"
   },
+  "ignite-redux-thunk": {
+    "description": "An Ignite CLI plugin for redux-thunk.",
+    "author": "Gustav Hansen",
+    "url": "https://github.com/kusti8/ignite-redux-thunk"
+  },
   "ignite-source-map": {
     "description": "A CLI to parse source-map files and stack traces into usable output.",
     "author": "Gant Laborde",
