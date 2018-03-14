@@ -113,5 +113,10 @@
     "description": "An Ignite plugin for react-native-video.",
     "author": "Ryan Linton",
     "url": "https://github.com/ryanlntn/ignite-video"
+  },
+  "ignite-onesignal": {
+    "description": "An Ignite plugin to add react-native-onesignal easily.",
+    "author": "Donald Silveira",
+    "url": "https://github.com/LighthouseIT/ignite-onesignal"
   }
 }
