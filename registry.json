@@ -94,6 +94,11 @@
     "author": "Gant Laborde",
     "url": "https://github.com/GantMan/ignite-redux-logger"
   },
+  "ignite-redux-persist": {
+    "description": "An Ignite CLI plugin for redux-persist.",
+    "author": "Ryan Linton",
+    "url": "https://github.com/infinitered/ignite-redux-persist"
+  },
   "ignite-redux-thunk": {
     "description": "An Ignite CLI plugin for redux-thunk.",
     "author": "Gustav Hansen",
