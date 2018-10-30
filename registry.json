@@ -11,6 +11,12 @@
     "email": "npm@infinite.red",
     "url": "https://github.com/infinitered/ignite"
   },
+  "ignite-crashlytics": {
+    "description": "Install Crashlytics on a react-native App.",
+    "author": "Osedea, Inc.",
+    "email": "npm@osedea.com",
+    "url": "https://github.com/osedea/ignite-crashlytics"
+  },
   "ignite-dev-screens": {
     "description": "Ignite development screens.",
     "author": "Infinite Red, Inc.",
@@ -29,7 +35,7 @@
     "url": "https://github.com/infinitered/ignite"
   },
   "ignite-fabric": {
-    "description": "Install Fabric and Crashlytics on a react-native App.",
+    "description": "Install Fabric and Crashlytics on a react-native App (to be deprecated).",
     "author": "Osedea, Inc.",
     "email": "npm@osedea.com",
     "url": "https://github.com/osedea/ignite-fabric"
@@ -67,6 +73,12 @@
     "email": "npm@infinite.red",
     "url": "https://github.com/infinitered/ignite"
   },
+  "ignite-native-navigation": {
+    "description": "Install Wix's React Native Navigation.",
+    "author": "Osedea, Inc.",
+    "email": "npm@osedea.com",
+    "url": "https://github.com/osedea/ignite-native-navigation"
+  },
   "ignite-push-notification": {
     "description": "An Ignite plugin for react-native-push-notification.",
     "author": "Ryan Linton",
@@ -81,6 +93,11 @@
     "description": "An Ignite plugin for redux-logger.",
     "author": "Gant Laborde",
     "url": "https://github.com/GantMan/ignite-redux-logger"
+  },
+  "ignite-redux-persist": {
+    "description": "An Ignite CLI plugin for redux-persist.",
+    "author": "Ryan Linton",
+    "url": "https://github.com/infinitered/ignite-redux-persist"
   },
   "ignite-redux-thunk": {
     "description": "An Ignite CLI plugin for redux-thunk.",
