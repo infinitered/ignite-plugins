@@ -135,5 +135,10 @@
     "description": "An Ignite plugin to add react-native-onesignal easily.",
     "author": "Donald Silveira",
     "url": "https://github.com/LighthouseIT/ignite-onesignal"
+  },
+    "ignite-kos-boilerplate": {
+    "description": "Fork of ignite-ir-boilerplate-andross",
+    "author": "Artem Kosiakevych",
+    "url": "https://github.com/ArtemKosiakevych/ignite-boilerplate-kos"
   }
 }
