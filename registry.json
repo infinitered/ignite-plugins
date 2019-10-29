@@ -34,12 +34,6 @@
     "email": "npm@infinite.red",
     "url": "https://github.com/infinitered/ignite"
   },
-  "ignite-fabric": {
-    "description": "Install Fabric and Crashlytics on a react-native App (to be deprecated).",
-    "author": "Osedea, Inc.",
-    "email": "npm@osedea.com",
-    "url": "https://github.com/osedea/ignite-fabric"
-  },
   "ignite-fetch-blob": {
     "description": "An ignite plugin for react-native-fetch-blob.",
     "author": "Steve Kellock",
@@ -78,6 +72,18 @@
     "author": "Osedea, Inc.",
     "email": "npm@osedea.com",
     "url": "https://github.com/osedea/ignite-native-navigation"
+  },
+  "ignite-navigation": {
+    "description": "Install react-navigation and dependencies",
+    "author": "Osedea, Inc.",
+    "email": "npm@osedea.com",
+    "url": "https://github.com/osedea/ignite-navigation"
+  },
+  "ignite-netinfo": {
+    "description": "Install @react-native-community/netinfo since it is now out of the react-native core",
+    "author": "Osedea, Inc.",
+    "email": "npm@osedea.com",
+    "url": "https://github.com/osedea/ignite-netinfo"
   },
   "ignite-push-notification": {
     "description": "An Ignite plugin for react-native-push-notification.",
